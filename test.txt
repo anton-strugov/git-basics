@@ -1,0 +1,2 @@
+Несколько любых предложений
+git@github.com:anton-strugov/git-basics.git
